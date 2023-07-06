@@ -1,0 +1,8 @@
+Select your project
+
+1. Product Owner will describe the Project
+2. Product Owner will address the team in a Sprint meeting and tell them about how many User Stories (features) were moved in 
+   Product Backlog
+3. In Sprint meeting, Dev and QA members will tell how many stories they committed to i.e., Sprint Backlog
+4. Scrum Master will conduct the Daily Scrum and ask the 3 imp questions
+5. Retrospective Meeting will happen where all will sit and discuss what could have gone better and room for improvement.

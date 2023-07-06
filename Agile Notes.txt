@@ -1,0 +1,74 @@
+Agile
+------
+Agile principles: -
+1. Clients/Customers get instant results, they need not wait till project term end
+2. Design, develop, test, deploy certain features of a software
+3. Accept/accomodate change in requirements as it is a dynamic model.
+
+Practice:-
+Frequent communication between the Customer/Client, Business Analysts, Developers and Testers
+
+Advantages:-
+1. Clear commmunication
+2. Instant shippable product release
+3. Easier model to adopt
+4. Overall cost incurred is less
+5. Early detection of bugs and fixes
+
+Disadvantages:-
+1. Documentation generally is a miss
+
+Scrum
+-----
+Scrum is a framework
+Scrum includes group of people known as Scrum Team. [5-12 members]
+
+Three most important roles[people/official] in a Scrum Team are: -
+1. Product Owner
+2. Scrum Master
+3. Development Team[Developers + Testers]
+
+Product Owner:-
+1. At least 15+ years of experience
+2. Defines the features of the Product
+3. Prioritizes the features as per market value/demand
+4. Adjust features and priorities in every iteration on a situational basis
+5. Accepts/Rejects work results
+
+Scrum Master:-
+1. To be the servant leader to the team
+2. Facilitate and drive the agile process
+3. Remove roadblocks if any
+
+Developers and QA:
+-----------------------------------------------------------------------------------------
+
+Scrum Terminologies:-
+User Story (US) - a feature/model in a software
+
+Epic - Collection of User Stories
+
+Product Backlog - Contains list of user stories which is prepared by the Product Owner
+
+Sprint - a time period to complete the user stories. Decided by the Product owner. 2-4 weeks
+
+Sprint Planning Meeting - define what features can be delivered in what time frame.
+
+Sprint Backlog - List of user stories committed by the Dev/QA Team for a particular sprint
+
+Scrum Meeting(Daily Stand Up/ Scrum Call) - time frame of 15 minutes
+        > What did you do yesterday
+        > What are you planning to do today
+        > Are there any impediments 
+
+Sprint Retrospective Meeting - 
+
+Story Point - Rough estimation of user stories
+  1 story point = 1 hour for a certain company
+                = 1 day [9 working hours for a certain company]
+you have to adhere to Fibonacci series
+0 1 1 2 3 5 8 
+
+Burndown chart - shows how much work is remaining in the Sprint. Maintained by the Scrum Master
+
+
